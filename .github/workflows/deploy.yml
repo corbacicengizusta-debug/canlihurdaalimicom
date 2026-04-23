@@ -1,4 +1,4 @@
-name: FTP ile Canlıya Al (Deploy)
+name: Auto Deploy Vite Site
 
 on:
   push:
@@ -6,33 +6,45 @@ on:
       - main
 
 jobs:
-  web-deploy:
-    name: Deploy
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - name: 🚚 Kodu Depodan Çek
-      uses: actions/checkout@v4
+      - name: Repo cek
+        uses: actions/checkout@v4
 
-    - name: 🟢 Node.js Kur
-      uses: actions/setup-node@v4
-      with:
-        node-version: 20
+      - name: Node kur
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
 
-    - name: 📦 Paketleri Yükle
-      run: npm install
+      - name: Paketleri yukle
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
 
-    - name: 🛠️ Build Al
-      run: npm run build
+      - name: Build al
+        run: npm run build
 
-    - name: 📂 dist klasörünü FTPS ile Yükle
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-      with:
-        server: ${{ secrets.FTP_SERVER }}
-        username: ${{ secrets.FTP_USERNAME }}
-        password: ${{ secrets.FTP_PASSWORD }}
-        protocol: ftps
-        port: 21
-        local-dir: ./dist/
-        server-dir: ./public_html/
-        state-name: .ftp-deploy-sync-state.json
+      - name: dist var mi kontrol et
+        run: |
+          if [ ! -d dist ]; then
+            echo "dist klasoru olusmadi"
+            exit 1
+          fi
+
+      - name: FTP ile yukle
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          local-dir: ./dist/
+          server-dir: ./public_html/
+          state-name: .ftp-deploy-sync-state.json
