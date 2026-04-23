@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Importer",
+  "description": "Tool to adapt a GitHub repository for Google AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

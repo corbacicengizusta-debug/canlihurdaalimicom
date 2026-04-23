@@ -1,0 +1,529 @@
+{
+    "updated_at": "23.04.2026 13:55:41",
+    "data": [
+        {
+            "t": "BAKIR HURDASI",
+            "i": [
+                {
+                    "n": "Soyulmuş Bakır Fiyatı",
+                    "p": 648.94,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Lama Bakır İmalat",
+                    "p": 628.97,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Boru Bakır",
+                    "p": 616.93,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Yanık Bakır",
+                    "p": 605.26,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Soyma Bakır Fiyatı",
+                    "p": 634.51,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Hurda Bakırlı Petek",
+                    "p": 256.38,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Arayiş Bakır",
+                    "p": 635.4,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Kalıp Bakır",
+                    "p": 629.57,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Beyaz Bakır",
+                    "p": 600,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Hurda Bakır",
+                    "p": 617.68,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Kırkambar Bakır",
+                    "p": 620,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "SARI HURDASI",
+            "i": [
+                {
+                    "n": "Sarı Hurda",
+                    "p": 341.65,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Musluk",
+                    "p": 348.77,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Pirinç Araiş",
+                    "p": 407.83,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Batarya Vana Su Saati",
+                    "p": 345,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Sarı Talaşı",
+                    "p": 337.6,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Ms 58 Ms 64 Ms 70",
+                    "p": 369.04,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "DEMİR HURDASI",
+            "i": [
+                {
+                    "n": "Dkp",
+                    "p": 17.23,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Ekstra",
+                    "p": 14.44,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Toplama",
+                    "p": 12.69,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Mahalle",
+                    "p": 12.94,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "KABLO HURDASI",
+            "i": [
+                {
+                    "n": "Soyulmamış Kablo",
+                    "p": 399.38,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Ttr",
+                    "p": 420,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Enya",
+                    "p": 581.65,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Tek Damar",
+                    "p": 580,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Karışık Bakır Kablo",
+                    "p": 329.01,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "4x 25",
+                    "p": 551.65,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Alüminyum Kablo",
+                    "p": 90,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Tesisat Kablo",
+                    "p": 355,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Kıl Kablo",
+                    "p": 201,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "KROM HURDASI",
+            "i": [
+                {
+                    "n": "Paslanmaz Çelik Hurda",
+                    "p": 51.84,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "316 Krom Çelik",
+                    "p": 100.32,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "304 Paslanmaz Krom Hurda",
+                    "p": 110,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Krom Talaşı",
+                    "p": 50.89,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "310 Krom",
+                    "p": 90,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "201 - 202 Krom",
+                    "p": 25,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "ALÜMİNYUM HURDASI",
+            "i": [
+                {
+                    "n": "Arayiş Alüminyum",
+                    "p": 151.65,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Beyaz Profil Alüminyum",
+                    "p": 150,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Renkli Alüminyum",
+                    "p": 131.65,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Sineklik Alüminyum",
+                    "p": 131.65,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Jant Alüminyum",
+                    "p": 150.14,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "SERT ALÜMİNYUM",
+            "i": [
+                {
+                    "n": "Sert Alüminyum",
+                    "p": 97.65,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Kalıp Alüminyum",
+                    "p": 133.2,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Ayakkabı Kalıbı Alüminyum",
+                    "p": 133.2,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Sert Nikkelli",
+                    "p": 111,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Sert Talaşı",
+                    "p": 81.59,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "AKÜ HURDASI",
+            "i": [
+                {
+                    "n": "Kuru Akü",
+                    "p": 33.82,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Jel Akü",
+                    "p": 33.65,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Karışık Akü",
+                    "p": 33.72,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Sulu Akü",
+                    "p": 33.48,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "ÇİNKO HURDASI",
+            "i": [
+                {
+                    "n": "Levha Çıkma Çinko",
+                    "p": 107.79,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Karışık Hurda Çinko",
+                    "p": 100.89,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Çatı Minare Sökümü",
+                    "p": 97.44,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Külçe Çinko",
+                    "p": 91.44,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "KURŞUN HURDASI",
+            "i": [
+                {
+                    "n": "Çatı Sökümü",
+                    "p": 91.3,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Külçe Kurşun",
+                    "p": 89.42,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Karışık Kurşun",
+                    "p": 83.43,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Olta Kurşunu",
+                    "p": 82.57,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "ZAMAK HURDASI",
+            "i": [
+                {
+                    "n": "Zamak Curuf",
+                    "p": 55.51,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Kaplamalı Boyalı",
+                    "p": 49.96,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Menteşe",
+                    "p": 49.96,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Zamak Karışık",
+                    "p": 33.31,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "KALAY HURDASI",
+            "i": [
+                {
+                    "n": "Hurda Kalay Fiyatları",
+                    "p": 1007.9,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Lehim Hurda Fiyatı",
+                    "p": 1085.92,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "MOTOR VE SÖKÜLECEK HURDASI",
+            "i": [
+                {
+                    "n": "Motor",
+                    "p": 61.5,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Buzdolabı Motor",
+                    "p": 40,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Karışık Sökülecek",
+                    "p": 50,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Karışık",
+                    "p": 45,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "ELMAS HURDASI",
+            "i": [
+                {
+                    "n": "Hurda Karbür",
+                    "p": 754.93,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Hurda Elmas",
+                    "p": 755.36,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "NİKEL HURDASI",
+            "i": [
+                {
+                    "n": "Nikel Hurda",
+                    "p": 724.11,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Anot Hurda Nikel",
+                    "p": 734.27,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        },
+        {
+            "t": "KLİMA HURDASI",
+            "i": [
+                {
+                    "n": "Hurda Klima",
+                    "p": 52.73,
+                    "change": "same",
+                    "percent": 0
+                },
+                {
+                    "n": "Hurda Klima Motoru",
+                    "p": 53.17,
+                    "change": "same",
+                    "percent": 0
+                }
+            ]
+        }
+    ]
+}
